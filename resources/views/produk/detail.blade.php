@@ -9,7 +9,7 @@
   <div style="display: flex; justify-content: center; margin-top: 30px; width: 100%">
     <div style="width: 80%">
       <div style="display: flex; justify-content: space-between; align-items: center; width: 100%">
-        <h1>Daftar Produk</h1>
+        <h1>Detail Produk</h1>
         
         <a href="{{route('edit', $data->id)}}">
           Edit Produk

@@ -1,3 +1,18 @@
+## Arkademy Level 3 - Tugas 10
+
+Daftar Produk
+<img src="https://i.ibb.co/JpMyqFj/Screenshot-from-2020-08-22-00-26-19.png" alt="Screenshot-from-2020-08-22-00-26-19" border="0">
+
+Detail Produk
+<img src="https://i.ibb.co/VpXc90J/Screenshot-from-2020-08-22-00-36-31.png" alt="Screenshot-from-2020-08-22-00-36-31" border="0">
+
+Tambah Produk
+<img src="https://i.ibb.co/z6SWK5Y/Screenshot-from-2020-08-22-00-27-12.png" alt="Screenshot-from-2020-08-22-00-27-12" border="0">
+
+Edit Produk
+<img src="https://i.ibb.co/rvCnnzd/Screenshot-from-2020-08-22-00-40-38.png" alt="Screenshot-from-2020-08-22-00-40-38" border="0">
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -6,6 +21,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+
+
 
 ## About Laravel
 

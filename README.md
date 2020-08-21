@@ -1,15 +1,15 @@
 ## Arkademy Level 3 - Tugas 10
 
-Daftar Produk
+<p>Daftar Produk</p>
 <img src="https://i.ibb.co/JpMyqFj/Screenshot-from-2020-08-22-00-26-19.png" alt="Screenshot-from-2020-08-22-00-26-19" border="0">
 
-Detail Produk
+<p>Detail Produk</p>
 <img src="https://i.ibb.co/VpXc90J/Screenshot-from-2020-08-22-00-36-31.png" alt="Screenshot-from-2020-08-22-00-36-31" border="0">
 
-Tambah Produk
+<p>Tambah Produk</p>
 <img src="https://i.ibb.co/z6SWK5Y/Screenshot-from-2020-08-22-00-27-12.png" alt="Screenshot-from-2020-08-22-00-27-12" border="0">
 
-Edit Produk
+<p>Edit Produk</p>
 <img src="https://i.ibb.co/rvCnnzd/Screenshot-from-2020-08-22-00-40-38.png" alt="Screenshot-from-2020-08-22-00-40-38" border="0">
 
 
